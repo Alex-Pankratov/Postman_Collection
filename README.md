@@ -1,1 +1,1 @@
-Postman_collection
+Postman collection
